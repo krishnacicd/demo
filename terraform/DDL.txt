@@ -1,1 +1,2 @@
 list of DB2 comments are integrated.
+bulk of commends are to be added
